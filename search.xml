@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[My first article]]></title>
     <url>%2F2017%2F12%2F28%2Fmy-first-article%2F</url>
-    <content type="text"><![CDATA[Cmd Markdown 简明语法手册学习 Markdown浅谈标签： Cmd-Markdown 1. 斜体和粗体使用 和 * 表示斜体和粗体。 示例： 这是 斜体，这是 粗体。 2. 分级标题使用 === 表示一级标题，使用 — 表示二级标题。 示例： 1234567这是一个一级标题============================这是一个二级标题--------------------------------------------------### 这是一个三级标题 你也可以选择在行首加井号表示不同级别的标题 (H1-H6)，例如：# H1, ## H2, ### H3，#### H4。 3. 外链接使用 [描述](链接地址) 为文字增加外链接。 示例： 这是去往 本人博客 的链接。 Python 示例： 123456789101112@requires_authorizationdef somefunc(param1='', param2=0): '''A docstring''' if param1 &gt; param2: # interesting print 'Greater' return (param2 - param1 + 1) or Noneclass SomeClass: pass&gt;&gt;&gt; message = '''interpreter... prompt''']]></content>
+    <content type="text"><![CDATA[Markdown 简明语法手册学习 Markdown浅谈标签： Cmd-Markdown 1. 斜体和粗体使用 和 * 表示斜体和粗体。 示例： 这是 斜体，这是 粗体。 2. 分级标题使用 === 表示一级标题，使用 — 表示二级标题。 示例： 1234567这是一个一级标题============================这是一个二级标题--------------------------------------------------### 这是一个三级标题 你也可以选择在行首加井号表示不同级别的标题 (H1-H6)，例如：# H1, ## H2, ### H3，#### H4。 3. 外链接使用 [描述](链接地址) 为文字增加外链接。 示例： 这是去往 本人博客 的链接。 Python 示例： 123456789101112@requires_authorizationdef somefunc(param1='', param2=0): '''A docstring''' if param1 &gt; param2: # interesting print 'Greater' return (param2 - param1 + 1) or Noneclass SomeClass: pass&gt;&gt;&gt; message = '''interpreter... prompt''']]></content>
       <categories>
         <category>python</category>
       </categories>
