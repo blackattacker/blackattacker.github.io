@@ -4,6 +4,9 @@
     <title><![CDATA[test]]></title>
     <url>%2F2018%2F04%2F23%2Ftest%2F</url>
     <content type="text"></content>
+      <tags>
+        <tag>数码</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[我的测试文章--markdown语法测试]]></title>
