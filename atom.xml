@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-23T16:10:20.895Z</updated>
+  <updated>2018-04-24T10:29:36.168Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>手机购买分析</title>
-    <link href="http://yoursite.com/2018/04/23/test/"/>
-    <id>http://yoursite.com/2018/04/23/test/</id>
-    <published>2018-04-23T11:24:06.000Z</published>
-    <updated>2018-04-23T16:10:20.895Z</updated>
+    <title>PS---商业人像修图</title>
+    <link href="http://yoursite.com/2018/04/24/5-%E4%BA%BA%E5%83%8F/"/>
+    <id>http://yoursite.com/2018/04/24/5-人像/</id>
+    <published>2018-04-24T09:49:29.000Z</published>
+    <updated>2018-04-24T10:29:36.168Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>手机购买分析：</p></blockquote><a id="more"></a><h2 id="CPU："><a href="#CPU：" class="headerlink" title="CPU："></a>CPU：</h2><ul><li>在智能手机中，处理器是最核心的硬件，它不仅决定着手机运算性能，CPU内置的GPU也决定着图形性能，它同时相当于电脑中的CPU和显卡，控制着智能手机性能命脉。因此看手机处理器的好坏，就可以知道这部手机性能高低了。那么，手机处理器怎么辨别好坏？<h3 id="1高通骁龙"><a href="#1高通骁龙" class="headerlink" title="1高通骁龙"></a>1高通骁龙</h3></li></ul><ol><li>性能强悍</li><li>GPU强大</li><li>稳定一般</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">高通手机CPU型号众多，包含低调、中端、高端各层次的产品，今年安卓旗舰机标配的高端处理器基本都是骁龙820。</span><br><span class="line"></span><br><span class="line">骁龙820代表机型：三星Note7/S7、小米5、vivo Xplay5高配版、一加3、Nubia Z11、ZUK Z2、中兴天机Axon 7、360手机Q5 Plus等等，包含了今年各大热门品牌旗舰机</span><br><span class="line"></span><br><span class="line">骁龙625代表机型：vivo X7、OPPO R9 Plus、nubia Z11 Max等</span><br></pre></td></tr></table></figure><h3 id="2苹果A11仿生处理器"><a href="#2苹果A11仿生处理器" class="headerlink" title="2苹果A11仿生处理器"></a>2苹果A11仿生处理器</h3><ol><li>高性能</li><li>高体验</li><li>满足日常</li></ol><ul><li>无需多说</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Iphone X</span><br></pre></td></tr></table></figure><h3 id="3海思麒麟"><a href="#3海思麒麟" class="headerlink" title="3海思麒麟"></a>3海思麒麟</h3><ol><li>GPU短板</li><li>游戏一般</li><li>空间巨大</li></ol><ul><li>华为是中国大陆国产手机厂商唯一一家能够推出自家手机CPU厂商，技术实力雄厚.</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">麒麟955代表机型：荣耀Note8、荣耀V8高配版等</span><br><span class="line">麒麟950代表机型：荣耀8、荣耀V8运营商版等</span><br><span class="line">麒麟650代表机型：华为G9青春版、荣耀5C</span><br></pre></td></tr></table></figure><h3 id="4-联发科"><a href="#4-联发科" class="headerlink" title="4 联发科"></a>4 联发科</h3><ol><li>品牌形象差</li><li>性价比高</li><li>不出彩</li></ol><ul><li>MediaTek.Inc简称MTK，中文名称&ldquo;联发科&rdquo;，是一家台湾IC设计厂商，1997年创立，是目前仅次于高通的第二代手机芯片厂商。联发科CPU主要特点在于多核、高性价比</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Helio X25代表机型：魅族PRO 6、红米Pro顶配版等</span><br><span class="line">Helio X20代表机型：魅族MX6、360手机N4S、红米Pro标准版等</span><br><span class="line">Helio P10代表机型：OPPO R9、魅蓝Note3</span><br></pre></td></tr></table></figure><h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><ul><li>IOS 闭源  高流畅  功耗低 收费  土豪</li><li>MIUI 人性化 流畅  更新快 臃肿 广告多</li><li>Flyme 小清新 易使用 舒适  内置广告</li><li>EMUI  商务 功能强  UI一般</li><li>Smartisan OS   情怀   扁平化 拟物化  争议多</li><li>一加的氢OS  性能强（跑分） 优化强  小众 不讲究</li></ul><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="硬件"><a href="#硬件" class="headerlink" title="硬件"></a>硬件</h3><ul><li>1屏幕</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">材质</span><br><span class="line">LCD（液晶显示器）与OLED（有机发光二极管）</span><br><span class="line">尺寸      全面屏 </span><br><span class="line">分辨率  高清 2k  4k</span><br></pre></td></tr></table></figure><ul><li>2解锁</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">人脸解锁</span><br><span class="line">指纹解锁</span><br><span class="line">前置指纹</span><br><span class="line">后置指纹</span><br><span class="line">侧面指纹</span><br><span class="line">评下指纹</span><br></pre></td></tr></table></figure><ul><li>3工艺美感</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">材质  陶瓷， 金属</span><br><span class="line">快充 无限快充</span><br><span class="line">续航</span><br><span class="line">陀螺仪：AR，光学防抖，3d游戏</span><br><span class="line">是否支持VOLTE</span><br></pre></td></tr></table></figure><ul><li>4摄像</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">前置像素</span><br><span class="line">后置像素</span><br><span class="line">拍照特点</span><br><span class="line">AI成像</span><br><span class="line">摄像头个数</span><br></pre></td></tr></table></figure><h3 id="黑科技"><a href="#黑科技" class="headerlink" title="黑科技"></a>黑科技</h3><p>智能助手</p><h2 id="服务"><a href="#服务" class="headerlink" title="服务"></a>服务</h2><ul><li>态度<br>关键词   ：霸道 水军  公关  恶略</li></ul><ol><li>苹果降频门</li><li>三星爆炸门</li><li>华为疏油门</li><li>小米耍猴门</li></ol><ul><li>售后</li></ul><ol><li>保修成本</li><li>保修难易</li></ol>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>商业人像修图总结 1:</p></blockquote><a id="more"></a><p>#商业修片步骤：</p><ol><li>祛痘，祛黑斑（修复画笔，图章）</li><li>磨皮（双曲线，高低频）</li><li>肤色统一（色相饱和度，饱和度，明度）</li><li>质感强化</li></ol><h1 id="PS-磨皮教程—双曲线"><a href="#PS-磨皮教程—双曲线" class="headerlink" title="PS 磨皮教程—双曲线"></a>PS 磨皮教程—双曲线</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">原理：建立两个双曲线，提亮和压暗效果使磨皮效果白皙。</span><br></pre></td></tr></table></figure><p>##要点</p><ul><li>压暗或提亮是画笔工具不透明都为15%，流量10%，视情况而定。</li></ul><p>##步骤：</p><ol><li>首先去除脸部各种痘印，黑斑，后建立黑白渐变效果，目的是为了查看人像在黑白上暴露的黑斑，痘印，碎发等缺点。</li><li>建立曲线，目的使图片变暗或者变亮，填充色为白。</li><li>将黑白和曲线建立成观察层组。</li><li>建立曲线，利用画笔涂抹，使人像变亮，命名提亮，填充色为黑</li><li>建立另一个曲线，利用画笔涂抹，使人像变暗，命名压暗，填充色为黑</li><li>最终反复调试，得到完美效果。</li><li>最后盖印图层。</li></ol><p>#PS 磨皮教程—高低频</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">原理：建立应用图像，利用高斯模糊调节图像</span><br></pre></td></tr></table></figure><p>##要点：</p><ul><li>羽化，调节为30左右，观看图像，视情况而定</li><li>应用图像128补偿，成为灰色</li></ul><p>##步骤：</p><ol><li>图像盖印两层，一层为高斯模糊，一层为应用图像。</li><li>应用图像那层进入应用图像，图层填高斯模糊，混合为减去，缩放2可以保持图像为粉嫩，缩放2可以保持为更多细节，补偿128。</li><li>用套索工具，钢笔等工具建立选区，羽化，高斯模糊，反复进行，直至磨皮完成。</li></ol><p>#PS 肤色统一 —（色相饱和度，饱和度，明度）</p><p>##要点：</p><ul><li>色相（阿凡达）</li><li>饱和度（观察层）</li><li>明度（双曲线）</li></ul><p>##步骤：</p><ol><li>确定肤色，统一颜色，减弱局部色彩，首先建立色相饱和度图层，选择突出颜色的通道，调整色相参数180，然后调整下方的滑块，缩小参数，调整左右两次。</li><li>在观察到颜色变化后，可以在调整相应的参数，如果色相饱和度还没有统一，可以在进行尝试，将其命令为色相统一。</li><li>调整饱和度，建立饱和度观察层，观察层包括可选颜色，有彩色的黑色参数为-100，无彩色的参数为100，然后建立色阶，调整进入颜色为黑白。</li><li>建立两个色相饱和度，一个提亮，一个压暗。</li><li>建立明度观察层，首先将图像建立为黑白效果（黑白），在建立曲线压暗，两个成为观察组。</li><li>建立两个双曲线一个压暗，一个提亮，背景填充为黑，然后分别用画笔檫出效果。</li><li>改变统一肤色，建立曲线，增加或减少红色，增加或减少蓝色，填充黑色背景反相，利用画笔涂抹修改肤色，如果对肤色不满意还可以进行调整曲线精调。</li><li>改变肤色另一方法，色彩平衡-饱和度统一。</li><li>按住Alt键复制图层蒙版，在进行修改参数，改变肤色。</li><li>盖印图层</li></ol><p>#PS—质感强化</p><p>1.利用锐化工具中，USM锐化。</p><p>#欧美人像处理设计</p><blockquote><p>产品型欧美人像</p></blockquote><p><img src="http://p2cclgo04.bkt.clouddn.com/%E8%87%AA%E4%BF%AE%E5%AF%B9%E6%AF%941.jpg" alt="产品型欧美人像"></p><blockquote><p>杂志型复古欧美人像</p></blockquote><p><img src="http://p2cclgo04.bkt.clouddn.com/%E5%8F%82%E7%85%A7%E5%AF%B9%E6%AF%94.jpg" alt="杂志型复古欧美人像"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;商业人像修图总结 1:&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="PS" scheme="http://yoursite.com/categories/PS/"/>
+    
+    
+      <category term="人像修图" scheme="http://yoursite.com/tags/%E4%BA%BA%E5%83%8F%E4%BF%AE%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手机购买分析</title>
+    <link href="http://yoursite.com/2018/04/23/4-%E6%89%8B%E6%9C%BA/"/>
+    <id>http://yoursite.com/2018/04/23/4-手机/</id>
+    <published>2018-04-23T11:24:06.000Z</published>
+    <updated>2018-04-24T09:48:22.695Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>手机购买分析：</p></blockquote><a id="more"></a><h2 id="CPU："><a href="#CPU：" class="headerlink" title="CPU："></a>CPU：</h2><ul><li>在智能手机中，处理器是最核心的硬件，它不仅决定着手机运算性能，CPU内置的GPU也决定着图形性能，它同时相当于电脑中的CPU和显卡，控制着智能手机性能命脉。因此看手机处理器的好坏，就可以知道这部手机性能高低了。那么，手机处理器怎么辨别好坏？<h3 id="1高通骁龙"><a href="#1高通骁龙" class="headerlink" title="1高通骁龙"></a>1高通骁龙</h3></li></ul><ol><li>性能强悍</li><li>GPU强大</li><li>稳定一般</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">高通手机CPU型号众多，包含低调、中端、高端各层次的产品，今年安卓旗舰机标配的高端处理器基本都是骁龙820。</span><br><span class="line"></span><br><span class="line">骁龙820代表机型：三星Note7/S7、小米5、vivo Xplay5高配版、一加3、Nubia Z11、ZUK Z2、中兴天机Axon 7、360手机Q5 Plus等等，包含了今年各大热门品牌旗舰机</span><br><span class="line"></span><br><span class="line">骁龙625代表机型：vivo X7、OPPO R9 Plus、nubia Z11 Max等</span><br></pre></td></tr></table></figure><h3 id="2苹果A11仿生处理器"><a href="#2苹果A11仿生处理器" class="headerlink" title="2苹果A11仿生处理器"></a>2苹果A11仿生处理器</h3><ol><li>高性能</li><li>高体验</li><li>满足日常</li><li>无需多说</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Iphone X</span><br></pre></td></tr></table></figure><h3 id="3海思麒麟"><a href="#3海思麒麟" class="headerlink" title="3海思麒麟"></a>3海思麒麟</h3><ol><li>GPU短板</li><li>游戏一般</li><li>空间巨大</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">麒麟955代表机型：荣耀Note8、荣耀V8高配版等</span><br><span class="line">麒麟950代表机型：荣耀8、荣耀V8运营商版等</span><br><span class="line">麒麟650代表机型：华为G9青春版、荣耀5C</span><br></pre></td></tr></table></figure><h3 id="4-联发科"><a href="#4-联发科" class="headerlink" title="4 联发科"></a>4 联发科</h3><ol><li>品牌形象差</li><li>性价比高</li><li>不出彩</li></ol><ul><li>MediaTek.Inc简称MTK，中文名称&ldquo;联发科&rdquo;，是一家台湾IC设计厂商，1997年创立，是目前仅次于高通的第二代手机芯片厂商。联发科CPU主要特点在于多核、高性价比</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Helio X25代表机型：魅族PRO 6、红米Pro顶配版等</span><br><span class="line">Helio X20代表机型：魅族MX6、360手机N4S、红米Pro标准版等</span><br><span class="line">Helio P10代表机型：OPPO R9、魅蓝Note3</span><br></pre></td></tr></table></figure><h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><ul><li>IOS 闭源  高流畅  功耗低 收费  土豪</li><li>MIUI 人性化 流畅  更新快 臃肿 广告多</li><li>Flyme 小清新 易使用 舒适  内置广告</li><li>EMUI  商务 功能强  UI一般</li><li>Smartisan OS   情怀   扁平化 拟物化  争议多</li><li>一加的氢OS  性能强（跑分） 优化强  小众 不讲究</li></ul><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="硬件"><a href="#硬件" class="headerlink" title="硬件"></a>硬件</h3><ul><li>1屏幕</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">材质</span><br><span class="line">LCD（液晶显示器）与OLED（有机发光二极管）</span><br><span class="line">尺寸      全面屏 </span><br><span class="line">分辨率  高清 2k  4k</span><br></pre></td></tr></table></figure><ul><li>2解锁</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">人脸解锁</span><br><span class="line">指纹解锁</span><br><span class="line">前置指纹</span><br><span class="line">后置指纹</span><br><span class="line">侧面指纹</span><br><span class="line">评下指纹</span><br></pre></td></tr></table></figure><ul><li>3工艺美感</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">材质  陶瓷， 金属</span><br><span class="line">快充 无限快充</span><br><span class="line">续航</span><br><span class="line">陀螺仪：AR，光学防抖，3d游戏</span><br><span class="line">是否支持VOLTE</span><br></pre></td></tr></table></figure><ul><li>4摄像</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">前置像素</span><br><span class="line">后置像素</span><br><span class="line">拍照特点</span><br><span class="line">AI成像</span><br><span class="line">摄像头个数</span><br></pre></td></tr></table></figure><h3 id="黑科技"><a href="#黑科技" class="headerlink" title="黑科技"></a>黑科技</h3><p>智能助手</p><h2 id="服务"><a href="#服务" class="headerlink" title="服务"></a>服务</h2><ul><li>态度<br>关键词   ：霸道 水军  公关  恶略</li></ul><ol><li>苹果降频门</li><li>三星爆炸门</li><li>华为疏油门</li><li>小米耍猴门</li></ol><ul><li>售后</li></ul><ol><li>保修成本</li><li>保修难易</li></ol>]]></content>
     
     <summary type="html">
     
@@ -42,8 +66,8 @@
   
   <entry>
     <title>我的测试文章--markdown语法测试</title>
-    <link href="http://yoursite.com/2017/12/29/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/12/29/我的测试文章/</id>
+    <link href="http://yoursite.com/2017/12/29/3-Markdown/"/>
+    <id>http://yoursite.com/2017/12/29/3-Markdown/</id>
     <published>2017-12-29T12:45:22.000Z</published>
     <updated>2018-01-12T16:01:35.054Z</updated>
     
@@ -66,8 +90,8 @@
   
   <entry>
     <title>My first article</title>
-    <link href="http://yoursite.com/2017/12/28/my-first-article/"/>
-    <id>http://yoursite.com/2017/12/28/my-first-article/</id>
+    <link href="http://yoursite.com/2017/12/28/2-%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2017/12/28/2-测试/</id>
     <published>2017-12-28T11:59:42.000Z</published>
     <updated>2018-01-12T15:55:47.055Z</updated>
     
@@ -91,8 +115,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/27/hello-world/"/>
-    <id>http://yoursite.com/2017/12/27/hello-world/</id>
+    <link href="http://yoursite.com/2017/12/27/1-hello/"/>
+    <id>http://yoursite.com/2017/12/27/1-hello/</id>
     <published>2017-12-27T12:16:17.419Z</published>
     <updated>2017-12-27T12:16:17.419Z</updated>
     

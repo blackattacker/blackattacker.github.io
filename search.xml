@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[PS---商业人像修图]]></title>
+    <url>%2F2018%2F04%2F24%2F5-%E4%BA%BA%E5%83%8F%2F</url>
+    <content type="text"><![CDATA[商业人像修图总结 1: #商业修片步骤： 祛痘，祛黑斑（修复画笔，图章） 磨皮（双曲线，高低频） 肤色统一（色相饱和度，饱和度，明度） 质感强化 PS 磨皮教程—双曲线1原理：建立两个双曲线，提亮和压暗效果使磨皮效果白皙。 ##要点 压暗或提亮是画笔工具不透明都为15%，流量10%，视情况而定。 ##步骤： 首先去除脸部各种痘印，黑斑，后建立黑白渐变效果，目的是为了查看人像在黑白上暴露的黑斑，痘印，碎发等缺点。 建立曲线，目的使图片变暗或者变亮，填充色为白。 将黑白和曲线建立成观察层组。 建立曲线，利用画笔涂抹，使人像变亮，命名提亮，填充色为黑 建立另一个曲线，利用画笔涂抹，使人像变暗，命名压暗，填充色为黑 最终反复调试，得到完美效果。 最后盖印图层。 #PS 磨皮教程—高低频 1原理：建立应用图像，利用高斯模糊调节图像 ##要点： 羽化，调节为30左右，观看图像，视情况而定 应用图像128补偿，成为灰色 ##步骤： 图像盖印两层，一层为高斯模糊，一层为应用图像。 应用图像那层进入应用图像，图层填高斯模糊，混合为减去，缩放2可以保持图像为粉嫩，缩放2可以保持为更多细节，补偿128。 用套索工具，钢笔等工具建立选区，羽化，高斯模糊，反复进行，直至磨皮完成。 #PS 肤色统一 —（色相饱和度，饱和度，明度） ##要点： 色相（阿凡达） 饱和度（观察层） 明度（双曲线） ##步骤： 确定肤色，统一颜色，减弱局部色彩，首先建立色相饱和度图层，选择突出颜色的通道，调整色相参数180，然后调整下方的滑块，缩小参数，调整左右两次。 在观察到颜色变化后，可以在调整相应的参数，如果色相饱和度还没有统一，可以在进行尝试，将其命令为色相统一。 调整饱和度，建立饱和度观察层，观察层包括可选颜色，有彩色的黑色参数为-100，无彩色的参数为100，然后建立色阶，调整进入颜色为黑白。 建立两个色相饱和度，一个提亮，一个压暗。 建立明度观察层，首先将图像建立为黑白效果（黑白），在建立曲线压暗，两个成为观察组。 建立两个双曲线一个压暗，一个提亮，背景填充为黑，然后分别用画笔檫出效果。 改变统一肤色，建立曲线，增加或减少红色，增加或减少蓝色，填充黑色背景反相，利用画笔涂抹修改肤色，如果对肤色不满意还可以进行调整曲线精调。 改变肤色另一方法，色彩平衡-饱和度统一。 按住Alt键复制图层蒙版，在进行修改参数，改变肤色。 盖印图层 #PS—质感强化 1.利用锐化工具中，USM锐化。 #欧美人像处理设计 产品型欧美人像 杂志型复古欧美人像]]></content>
+      <categories>
+        <category>PS</category>
+      </categories>
+      <tags>
+        <tag>人像修图</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[手机购买分析]]></title>
-    <url>%2F2018%2F04%2F23%2Ftest%2F</url>
-    <content type="text"><![CDATA[手机购买分析： CPU： 在智能手机中，处理器是最核心的硬件，它不仅决定着手机运算性能，CPU内置的GPU也决定着图形性能，它同时相当于电脑中的CPU和显卡，控制着智能手机性能命脉。因此看手机处理器的好坏，就可以知道这部手机性能高低了。那么，手机处理器怎么辨别好坏？1高通骁龙 性能强悍 GPU强大 稳定一般 12345高通手机CPU型号众多，包含低调、中端、高端各层次的产品，今年安卓旗舰机标配的高端处理器基本都是骁龙820。骁龙820代表机型：三星Note7/S7、小米5、vivo Xplay5高配版、一加3、Nubia Z11、ZUK Z2、中兴天机Axon 7、360手机Q5 Plus等等，包含了今年各大热门品牌旗舰机骁龙625代表机型：vivo X7、OPPO R9 Plus、nubia Z11 Max等 2苹果A11仿生处理器 高性能 高体验 满足日常 无需多说 1Iphone X 3海思麒麟 GPU短板 游戏一般 空间巨大 华为是中国大陆国产手机厂商唯一一家能够推出自家手机CPU厂商，技术实力雄厚. 123麒麟955代表机型：荣耀Note8、荣耀V8高配版等麒麟950代表机型：荣耀8、荣耀V8运营商版等麒麟650代表机型：华为G9青春版、荣耀5C 4 联发科 品牌形象差 性价比高 不出彩 MediaTek.Inc简称MTK，中文名称&ldquo;联发科&rdquo;，是一家台湾IC设计厂商，1997年创立，是目前仅次于高通的第二代手机芯片厂商。联发科CPU主要特点在于多核、高性价比 123Helio X25代表机型：魅族PRO 6、红米Pro顶配版等Helio X20代表机型：魅族MX6、360手机N4S、红米Pro标准版等Helio P10代表机型：OPPO R9、魅蓝Note3 系统 IOS 闭源 高流畅 功耗低 收费 土豪 MIUI 人性化 流畅 更新快 臃肿 广告多 Flyme 小清新 易使用 舒适 内置广告 EMUI 商务 功能强 UI一般 Smartisan OS 情怀 扁平化 拟物化 争议多 一加的氢OS 性能强（跑分） 优化强 小众 不讲究 设计硬件 1屏幕 1234材质LCD（液晶显示器）与OLED（有机发光二极管）尺寸 全面屏 分辨率 高清 2k 4k 2解锁 123456人脸解锁指纹解锁前置指纹后置指纹侧面指纹评下指纹 3工艺美感 12345材质 陶瓷， 金属快充 无限快充续航陀螺仪：AR，光学防抖，3d游戏是否支持VOLTE 4摄像 12345前置像素后置像素拍照特点AI成像摄像头个数 黑科技智能助手 服务 态度关键词 ：霸道 水军 公关 恶略 苹果降频门 三星爆炸门 华为疏油门 小米耍猴门 售后 保修成本 保修难易]]></content>
+    <url>%2F2018%2F04%2F23%2F4-%E6%89%8B%E6%9C%BA%2F</url>
+    <content type="text"><![CDATA[手机购买分析： CPU： 在智能手机中，处理器是最核心的硬件，它不仅决定着手机运算性能，CPU内置的GPU也决定着图形性能，它同时相当于电脑中的CPU和显卡，控制着智能手机性能命脉。因此看手机处理器的好坏，就可以知道这部手机性能高低了。那么，手机处理器怎么辨别好坏？1高通骁龙 性能强悍 GPU强大 稳定一般 12345高通手机CPU型号众多，包含低调、中端、高端各层次的产品，今年安卓旗舰机标配的高端处理器基本都是骁龙820。骁龙820代表机型：三星Note7/S7、小米5、vivo Xplay5高配版、一加3、Nubia Z11、ZUK Z2、中兴天机Axon 7、360手机Q5 Plus等等，包含了今年各大热门品牌旗舰机骁龙625代表机型：vivo X7、OPPO R9 Plus、nubia Z11 Max等 2苹果A11仿生处理器 高性能 高体验 满足日常 无需多说 1Iphone X 3海思麒麟 GPU短板 游戏一般 空间巨大 123麒麟955代表机型：荣耀Note8、荣耀V8高配版等麒麟950代表机型：荣耀8、荣耀V8运营商版等麒麟650代表机型：华为G9青春版、荣耀5C 4 联发科 品牌形象差 性价比高 不出彩 MediaTek.Inc简称MTK，中文名称&ldquo;联发科&rdquo;，是一家台湾IC设计厂商，1997年创立，是目前仅次于高通的第二代手机芯片厂商。联发科CPU主要特点在于多核、高性价比 123Helio X25代表机型：魅族PRO 6、红米Pro顶配版等Helio X20代表机型：魅族MX6、360手机N4S、红米Pro标准版等Helio P10代表机型：OPPO R9、魅蓝Note3 系统 IOS 闭源 高流畅 功耗低 收费 土豪 MIUI 人性化 流畅 更新快 臃肿 广告多 Flyme 小清新 易使用 舒适 内置广告 EMUI 商务 功能强 UI一般 Smartisan OS 情怀 扁平化 拟物化 争议多 一加的氢OS 性能强（跑分） 优化强 小众 不讲究 设计硬件 1屏幕 1234材质LCD（液晶显示器）与OLED（有机发光二极管）尺寸 全面屏 分辨率 高清 2k 4k 2解锁 123456人脸解锁指纹解锁前置指纹后置指纹侧面指纹评下指纹 3工艺美感 12345材质 陶瓷， 金属快充 无限快充续航陀螺仪：AR，光学防抖，3d游戏是否支持VOLTE 4摄像 12345前置像素后置像素拍照特点AI成像摄像头个数 黑科技智能助手 服务 态度关键词 ：霸道 水军 公关 恶略 苹果降频门 三星爆炸门 华为疏油门 小米耍猴门 售后 保修成本 保修难易]]></content>
       <categories>
         <category>数码</category>
       </categories>
@@ -13,7 +24,7 @@
   </entry>
   <entry>
     <title><![CDATA[我的测试文章--markdown语法测试]]></title>
-    <url>%2F2017%2F12%2F29%2F%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
+    <url>%2F2017%2F12%2F29%2F3-Markdown%2F</url>
     <content type="text"><![CDATA[神器Markdown强大 什么是 Markdown？我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，Cmd Markdown 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown 整理知识，学习笔记 发布日记，杂文，所见所想 撰写发布技术文稿（代码支持） 撰写发布学术论文（LaTeX 公式支持） markdown有什么用处Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，粗体 或者 斜体 某些文字，更棒的是，它还可以]]></content>
       <categories>
         <category>随笔</category>
@@ -24,7 +35,7 @@
   </entry>
   <entry>
     <title><![CDATA[My first article]]></title>
-    <url>%2F2017%2F12%2F28%2Fmy-first-article%2F</url>
+    <url>%2F2017%2F12%2F28%2F2-%E6%B5%8B%E8%AF%95%2F</url>
     <content type="text"><![CDATA[Markdown 简明语法手册学习 Markdown浅谈标签： Cmd-Markdown 1. 斜体和粗体使用 和 * 表示斜体和粗体。 示例： 这是 斜体，这是 粗体。 2. 分级标题使用 === 表示一级标题，使用 — 表示二级标题。 示例： 1234567这是一个一级标题============================这是一个二级标题--------------------------------------------------### 这是一个三级标题 你也可以选择在行首加井号表示不同级别的标题 (H1-H6)，例如：# H1, ## H2, ### H3，#### H4。 3. 外链接使用 [描述](链接地址) 为文字增加外链接。 示例： 这是去往 本人博客 的链接。 Python 示例： 123456789101112@requires_authorizationdef somefunc(param1='', param2=0): '''A docstring''' if param1 &gt; param2: # interesting print 'Greater' return (param2 - param1 + 1) or Noneclass SomeClass: pass&gt;&gt;&gt; message = '''interpreter... prompt''']]></content>
       <categories>
         <category>python</category>
@@ -35,7 +46,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F12%2F27%2Fhello-world%2F</url>
+    <url>%2F2017%2F12%2F27%2F1-hello%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
